@@ -1,0 +1,17 @@
+body{
+    background-color: lightgray;
+}
+
+.mr-auto{
+    /* color: black;
+    font-size: 150%;
+    font-weight: bold;
+    text-decoration: underline; */
+    text-align: right;
+}
+
+/* h2{
+    font-size: 100%;
+    font-weight: bold;
+    text-decoration: underline;
+} */
